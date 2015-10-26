@@ -55,6 +55,7 @@ Desenvolvedores:
     ```
     - removido package <i><b>ae</b></i> por estar obsoleto e adicionado package <i><b>lmodern</b></i>
     - removido package <i><b>psfig</b></i> por estar obsoleto e adicionado package <i><b>graphicx</b></i
+    
 - <b>v0.2.2</b>
     - Template Word, para quem preferir utilizar o Office.
     - Criação das pastas : Documentacao; LaTeX; Word
