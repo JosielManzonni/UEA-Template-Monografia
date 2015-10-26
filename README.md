@@ -43,20 +43,19 @@ Desenvolvedores:
 
 ## Release notes
 
- - <b>v0.2.1</b>
+ - <b> v0.2.1 </b>
     - modularização dos arquivos e reagrupamento
     - reestruturação do repositório
-    - retirado do arquivo principal TESE.TEX as folhas <i><b>FOLHA DE APROVAÇÃO,FICHA_CATALOGRAFICA,FOLHA DE ROSTO,AGRADECIMENTOS</b></i>
-    e adicionados em arquivos separados:<i><b> folha_de_aprovacao.tex, ficha_catalografica.tex, folha_de_rosto.tex,agradecimentos.tex</b></i> respectivamente.
-    e são adicionados com o comando:
+    - retirado do arquivo principal TESE.TEX as folhas <i><b>FOLHA DE APROVAÇÃO, FICHA_CATALOGRAFICA, FOLHA DE ROSTO, AGRADECIMENTOS</b></i>
+    e adicionados em arquivos separados:<i><b> folha_de_aprovacao.tex, ficha_catalografica.tex, folha_de_rosto.tex,agradecimentos.tex</b></i> respectivamente e são adicionados com o comando:
     ```LaTex  
        \input - Usado para adicionar arquivo em sequência,
                 sem adicionar uma nova página.
     ```
     - removido package <i><b>ae</b></i> por estar obsoleto e adicionado package <i><b>lmodern</b></i>
-    - removido package <i><b>psfig</b></i> por estar obsoleto e adicionado package <i><b>graphicx</b></i
+    - removido package <i><b>psfig</b></i> por estar obsoleto e adicionado package <i><b>graphicx</b></i>
     
-- <b>v0.2.2</b>
+- <b> v0.2.2 </b>
     - Template Word, para quem preferir utilizar o Office.
     - Criação das pastas : Documentacao; LaTeX; Word
     
