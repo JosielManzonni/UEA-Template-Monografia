@@ -1,10 +1,12 @@
-Modelo latex para monografias de engenharia da computação da UEA-EST versão 0.2.1
+Modelo latex/Word para monografias de engenharia da computação da UEA-EST versão 0.2.1
 ====
 - Prof Orientador: Jucimar Jr
 - Prof que ajudaram muito: Flávio Coelho e André Soares
 
 Desenvolvedores:
 
+- versão 0.2.2
+    - Josiel Wirlino
 - versão 0.2.1
     - Josiel Wirlino
 - versão 0.2
@@ -53,6 +55,10 @@ Desenvolvedores:
     ```
     - removido package <i><b>ae</b></i> por estar obsoleto e adicionado package <i><b>lmodern</b></i>
     - removido package <i><b>psfig</b></i> por estar obsoleto e adicionado package <i><b>graphicx</b></i
+- <b>v0.2.2</b>
+    - Template Word, para quem preferir utilizar o Office.
+    - Criação das pastas : Documentacao; LaTeX; Word
+    
 
 
 #### Pacote TeX aconselhados
